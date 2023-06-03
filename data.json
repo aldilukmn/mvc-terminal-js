@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "task": "Makan bang",
+      "status": true
+   },
+   {
+      "id": 2,
+      "task": "Eksplore OOP",
+      "status": false
+   },
+   {
+      "id": 3,
+      "task": "Belajar Javascript",
+      "status": false
+   }
+]
